@@ -1,0 +1,4 @@
+geometry_msgs/PolygonStamped border
+geometry_msgs/PoseStamped start
+---
+nav_msgs/Path path

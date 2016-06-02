@@ -1,0 +1,24 @@
+#Containing the configuration for the noWireApp
+cutting_height  = 5
+activate_cutting
+
+# 0: HMB Random mode, 1: HRP Random mode, 2: HRP Systematic mode
+app_mode = 2
+
+# 0: HVA_MODE_DOCK_HRP, 1: HVA_MODE_DOCK_HMB, 2: HVA_MODE_DOCK_HRP_AND_HMB
+docking_mode = 0
+
+# 0:HVA_MODE_BORDER_NONE, 1:HVA_MODE_BORDER_ONCE, 2:HVA_MODE_BORDER_ALWAYS
+border_mode = 0
+border_count = 1
+
+# 0: Warm start on existing config (if fail, manual installation mode is entered)
+# 1: Do Installation according to installation mode
+# 2: Headless, if started in charging station: attempt warm start, else: do installation
+boot_mode = 0
+
+# 0:Manual, use app to establish beacon positions and confinement
+# 1:Automatic Beacon Confinement, uses the beacons as the confinement area
+# 2:(TODO)Explore, Traverses the parcel to automatically establish boundary
+installation_mode = 0
+

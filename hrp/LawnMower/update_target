@@ -1,0 +1,110 @@
+# return next targets in queue, rangeDetectedValue
+# included lastDirection and mapSize  FOR SECOND ALGORITHM
+import model_diff_drive as mod
+import math
+
+def updateTarget(X, currentVel, currentOri, rangeSensor, bump, lastDirection, mapSize):
+	
+	euler = tf.transformations.euler_from_quaternion(currentOri)
+	if (rangeSensor < 2):
+		targetPoint = [(X[0] + 0.45 + rangeSensor) * math.cos(euler[2]), X[1] * math.sin(euler[2]), X[2]]
+		
+		if (-math.pi/4 < euler[2] <= math.pi/4): 				#going in +X -drection
+			T = [[X[0], X[1] + 2., X[2]], [[X[0] + 4., X[1], X[2]], [[X[0], X[1] - 2., X[2]], [[X[0] + 1., X[1], X[2]]
+		elif: (math.pi/4 < euler[2] <= 3*math.pi/4):  			#going in +Y -drection
+			T = [[X[0] + 2., X[1], X[2]], [[X[0], X[1] + 4., X[2]], [[X[0] - 2., X[1], X[2]], [[X[0], X[1] + 1., X[2]]
+		elif: (- 3*math.pi/4 < euler[2] <= -math.pi/4):  			#going in -Y -drection
+			T = [[X[0] - 2., X[1], X[2]], [[X[0], X[1] - 4., X[2]], [[X[0] + 2., X[1], X[2]], [[X[0] - 1., X[1], X[2]]
+		else: 		             						#going in -X -drection
+			T = [[X[0], X[1] - 2., X[2]], [[X[0] - 4., X[1], X[2]], [[X[0], X[1] + 2., X[2]], [[X[0] - 1., X[1], X[2]]
+		
+		return T, targetPoint, lastDirection
+		
+	elif (rangeSensor < 1):
+		targetPoint = [(X[0] + 0.45 + rangeSensor) * math.cos(euler[2]), X[1] * math.sin(euler[2]), X[2]]
+		
+		if (-math.pi/4 < euler[2] <= math.pi/4):  				#going in +X -drection
+			T = [[X[0] - 1., X[1] , X[2]], [X[0], X[1] + 2., X[2]], [[X[0] + 4., X[1], X[2]], [[X[0], X[1] - 2., X[2]], [[X[0] + 1., X[1], X[2]]
+		elif: (math.pi/4 < euler[2] <= 3*math.pi/4):   			#going in +Y -drection
+			T = [[X[0], X[1] - 1., X[2]], [X[0] + 2., X[1], X[2]], [[X[0], X[1] + 4., X[2]], [[X[0] - 2., X[1], X[2]], [[X[0], X[1] + 1., X[2]]
+		elif: (- 3*math.pi/4 < euler[2] <= -math.pi/4):  			#going in -Y -drection
+			T = [[X[0], X[1] + 1., X[2]], [X[0] - 2., X[1], X[2]], [[X[0], X[1] - 4., X[2]], [[X[0] + 2., X[1], X[2]], [[X[0] - 1., X[1], X[2]]
+		else: 		             						#going in -X -drection
+			T = [[X[0] + 1., X[1], X[2]], [X[0], X[1] - 2., X[2]], [[X[0] - 4., X[1], X[2]], [[X[0], X[1] + 2., X[2]], [[X[0] - 1., X[1], X[2]]
+		
+		return T, targetPoint, lastDirection
+
+	#FIRST ALGORITHM START
+	'''
+	#USE THIS IF MAP LOOKS BETTER TO TURN RIGHT
+	elif (bump == 'bump'): # 1 step back and turn right
+		
+		if (-math.pi/4 < euler[2] <= math.pi/4):  				#going in +X -drection
+			T = [[X[0] - 1., X[1], X[2]], [[X[0] ,X[1] - 1., X[2]]
+		elif: (math.pi/4 < euler[2] <= 3*math.pi/4):   			#going in +Y -drection
+			T = [[X[0], X[1] - 1., X[2]], [[X[0] + 1. ,X[1], X[2]]
+		elif: (- 3*math.pi/4 < euler[2] <= -math.pi/4):  			#going in -Y -drection
+			T = [[X[0], X[1] + 1., X[2]], [[X[0] - 1. ,X[1], X[2]]
+		else: 		             						#going in -X -drection
+			T = [[X[0] + 1., X[1], X[2]], [[X[0], X[1] + 1., X[2]]
+		
+		return T, [-50,-50,-50]
+		
+      #USE THIS IF MAP LOOKS BETTER TO TURN LEFT
+	
+	elif (bump == 'bump'): # 1 step back and turn left
+		
+		if (-math.pi/4 < euler[2] <= math.pi/4):  				#going in +X -drection
+			T = [[X[0] - 1., X[1], X[2]], [[X[0] ,X[1] + 1., X[2]]
+		elif: (math.pi/4 < euler[2] <= 3*math.pi/4):   			#going in +Y -drection
+			T = [[X[0], X[1] - 1., X[2]], [[X[0] - 1. ,X[1], X[2]]
+		elif: (- 3*math.pi/4 < euler[2] <= -math.pi/4):  			#going in -Y -drection
+			T = [[X[0], X[1] + 1., X[2]], [[X[0] + 1. ,X[1], X[2]]
+		else: 		             						#going in -X -drection
+			T = [[X[0] + 1., X[1], X[2]], [[X[0], X[1] - 1., X[2]]
+		
+		return T, [-50,-50,-50]
+	
+	else:
+		if (-math.pi/4 < euler[2] <= math.pi/4):  				#going in +X -drection
+			T = [[X[0] + 1., X[1], X[2]]
+		elif: (math.pi/4 < euler[2] <= 3*math.pi/4):   			#going in +Y -drection
+			T = [[X[0], X[1] + 1., X[2]]
+		elif: (- 3*math.pi/4 < euler[2] <= -math.pi/4):  			#going in -Y -drection
+			T = [[X[0], X[1] - 1., X[2]]
+		else: 		             						#going in -X -drection
+			T = [[X[0] - 1., X[1], X[2]]
+		
+		return T, [-50,-50,-50]
+	#FIRST ALGORITHM END
+	'''
+	#SECOND ALGORITHM START
+	
+	elif (bump == 'bump'):
+		if (lastDirection == 'left'):
+			#update target to right
+			if (-math.pi/4 < euler[2] <= math.pi/4):  				#going in +X -drection
+				T = [-mapSize/2., X[1] - 1., X[2]]
+			elif: (math.pi/4 < euler[2] <= 3*math.pi/4):   			#going in +Y -drection
+				T = [[X[0] + 1., -mapSize/2., X[2]]
+			elif: (- 3*math.pi/4 < euler[2] <= -math.pi/4):  			#going in -Y -drection
+				T = [[X[0] - 1., mapSize/2., X[2]]
+			else: 		             						#going in -X -drection
+				T = [mapSize/2., X[1] + 1., X[2]]
+			return T, [-50,-50,-50], 'right'
+				
+		else:
+			#update target to left
+			if (-math.pi/4 < euler[2] <= math.pi/4):  				#going in +X -drection
+				T = [-mapSize/2., X[1] + 1., X[2]]
+			elif: (math.pi/4 < euler[2] <= 3*math.pi/4):   			#going in +Y -drection
+				T = [[X[0] - 1., -mapSize/2., X[2]]
+			elif: (- 3*math.pi/4 < euler[2] <= -math.pi/4):  			#going in -Y -drection
+				T = [[X[0] + 1., mapSize/2., X[2]]
+			else: 		             						#going in -X -drection
+				T = [mapSize/2., X[1] - 1., X[2]]
+			return T, [-50,-50,-50], 'left'
+	else:
+		return T, [-50,-50,-50], lastDirection
+	
+	#SECOND ALGORITHM END

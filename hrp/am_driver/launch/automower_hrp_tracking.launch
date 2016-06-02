@@ -1,0 +1,59 @@
+<launch>
+
+	<arg name="steering" default="true"/>
+    <arg name="imu" default="true"/>
+	<arg name="app" default="true"/>
+
+	<!-- urdf xml robot description loaded on the Parameter Server-->
+	<param name="robot_description" command="$(find xacro)/xacro.py '$(find am_description)/urdf/automower.urdf.xacro'" />
+
+	<!-- Start the am_driver -->
+	<node name="am_driver" pkg="am_driver" type="am_driver_node" output="screen">
+		<param name="serialPort" value="/dev/ttyUSB1" type="str" />
+		<param name="publishTf" value="0"/>
+		<param name="velocityRegulator" value="0"/>
+	</node>
+
+	<!-- Calculate IMU position -->
+	<group>
+		<node name="am_hrp_imupos" pkg="am_hrp_position" type="am_hrp_imupos_node" output="screen">
+			<param name="posTopicName" value="odom_combined" type="string" />
+		</node>
+	</group>
+	
+    <!-- Start the am_mpu9150 -->
+	<group if="$(arg imu)">
+        <node name="am_mpu9150" pkg="am_mpu9150" type="am_mpu9150_node" output="screen">
+            <param name="i2cbus" value="3" type="int" />
+            <param name="accelfile" value="/home/ubuntu/accelcal.txt" type="str" />
+        </node>
+        <!--
+        <node name="am_arduimu" pkg="am_arduimu" type="am_arduimu_node" output="screen">
+            <param name="serialPort" value="/dev/ttyUSB0" type="str" />
+        </node>
+        -->
+    </group>
+
+	<!-- STEERING -->
+	<group if="$(arg steering)">
+		<node name="am_steering" pkg="am_steering" type="am_steering_node" output="screen">
+		</node>
+	</group>
+
+	<!-- APP -->
+	<group if="$(arg app)">
+		<node name="am_hrp_tracking_app_node" pkg="am_hrp_apps" type="am_hrp_tracking_app_node" output="screen">
+        <param name="wantedMowingTime" value="60" type="int" />
+		</node>
+	</group>
+
+	<!-- source that publishes the joint positions as a sensor_msgs/JointState -->
+	<param name="use_gui" value="false"/>
+	<node name="joint_state_publisher" pkg="joint_state_publisher" type="joint_state_publisher" />
+
+	<!-- publish all the frames to TF -->
+	<node name="robot_state_publisher" pkg="robot_state_publisher" type="state_publisher">
+		<param name="publish_frequency" value="50"/>
+	</node>
+
+</launch>

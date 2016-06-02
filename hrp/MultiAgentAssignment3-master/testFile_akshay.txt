@@ -1,0 +1,3650 @@
+done creating tree
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [-1.57164845 -0.12969038  5.12249969] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [-0.01952037 -1.65216581  5.12249964] Temp1 : False Temp2 : False
+Pos :  [-1.57689905 -0.12825296  5.1224996 ] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [-0.01905353 -1.6586502   5.12250009] Temp1 : False Temp2 : False
+Pos :  [-1.58200695 -0.12709387  5.1224995 ] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [-0.01844343 -1.66374514  5.12249938] Temp1 : False Temp2 : False
+Pos :  [-1.588309   -0.12597949  5.12249899] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [-0.01737247 -1.66998096  5.12249986] Temp1 : False Temp2 : False
+Pos :  [-1.59415021 -0.1252478   5.12249929] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [-0.0160932  -1.67575902  5.12249978] Temp1 : False Temp2 : False
+Pos :  [-1.59998459 -0.12480222  5.12250093] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [-0.0144688  -1.68169949  5.12249868] Temp1 : False Temp2 : False
+Pos :  [-1.60541016 -0.12461598  5.12249962] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [-0.01305729 -1.68617842  5.12249867] Temp1 : False Temp2 : False
+Pos :  [-1.61217263 -0.12474065  5.1224999 ] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [-0.01062077 -1.69272426  5.1224992 ] Temp1 : False Temp2 : False
+Pos :  [-1.61769087 -0.1251171   5.12250012] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [-0.00857375 -1.69747503  5.1224991 ] Temp1 : False Temp2 : False
+Pos :  [-1.62420737 -0.1258794   5.12250006] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [-0.00607206 -1.70261015  5.12249925] Temp1 : False Temp2 : False
+Pos :  [-1.62949769 -0.12676633  5.12250008] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [ -3.01497510e-03  -1.70815537e+00   5.12249942e+00] Temp1 : False Temp2 : False
+Pos :  [-1.63570054 -0.12810203  5.12249932] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [ -7.89916613e-06  -1.71300941e+00   5.12249920e+00] Temp1 : False Temp2 : False
+Pos :  [-1.64130429 -0.12963344  5.12249932] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [  3.46692723e-03  -1.71801979e+00   5.12249898e+00] Temp1 : False Temp2 : False
+Pos :  [-1.64686361 -0.13144851  5.1224993 ] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [ 0.00682622 -1.72242175  5.12249899] Temp1 : False Temp2 : False
+Pos :  [-1.65178993 -0.1333025   5.12249921] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [ 0.01104041 -1.72743252  5.1225    ] Temp1 : False Temp2 : False
+Pos :  [-1.65718512 -0.13561876  5.12249915] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [ 0.01446068 -1.73114076  5.12249944] Temp1 : False Temp2 : False
+Pos :  [-1.66247851 -0.13820364  5.12249924] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [ 0.01838599 -1.73499364  5.12249938] Temp1 : False Temp2 : False
+Pos :  [-1.66756272 -0.14100244  5.12249937] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [ 0.02291793 -1.7389991   5.12249933] Temp1 : False Temp2 : False
+Pos :  [-1.6726233 -0.1441062  5.1224992] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [ 0.02735971 -1.74252087  5.12249974] Temp1 : False Temp2 : False
+Pos :  [-1.67758067 -0.14750667  5.12249952] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [ 0.03219223 -1.74598505  5.12249961] Temp1 : False Temp2 : False
+Pos :  [-1.68277459 -0.15145448  5.12249953] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [ 0.03723517 -1.7492538   5.12249943] Temp1 : False Temp2 : False
+Pos :  [-1.68713829 -0.15512233  5.12249929] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [ 0.04190756 -1.75199135  5.12249944] Temp1 : False Temp2 : False
+Pos :  [-1.69084915 -0.15856887  5.12249965] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [ 0.04777538 -1.75506496  5.12249944] Temp1 : False Temp2 : False
+Pos :  [-1.69537282 -0.16318867  5.12249966] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [ 0.05280772 -1.75738991  5.12249923] Temp1 : False Temp2 : False
+Pos :  [-1.69885135 -0.16708659  5.12249946] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [ 0.05850629 -1.75972687  5.12249953] Temp1 : False Temp2 : False
+Pos :  [-1.70231776 -0.17138008  5.12249975] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [ 0.06398741 -1.76168557  5.12249951] Temp1 : False Temp2 : False
+Pos :  [-1.70581709 -0.17615943  5.12249921] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [ 0.0699914  -1.76348337  5.12249977] Temp1 : False Temp2 : False
+Pos :  [-1.70909602 -0.1811243   5.12249939] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [ 0.07569552 -1.7648537   5.12249907] Temp1 : False Temp2 : False
+Pos :  [-1.71220107 -0.186346    5.12249939] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [ 0.08179699 -1.76599804  5.12249955] Temp1 : False Temp2 : False
+Pos :  [-1.71505471 -0.19171041  5.12249951] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [ 0.08794248 -1.76684048  5.12249966] Temp1 : False Temp2 : False
+Pos :  [-1.71784052 -0.19761602  5.1224994 ] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [ 0.09413015 -1.76738647  5.12249942] Temp1 : False Temp2 : False
+Pos :  [-1.71983074 -0.20243798  5.12249955] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [ 0.10023345 -1.76762923  5.12249964] Temp1 : False Temp2 : False
+Pos :  [-1.72180622 -0.20792474  5.12249958] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [ 0.1063036  -1.76757461  5.12249952] Temp1 : False Temp2 : False
+Pos :  [-1.72351832 -0.21351831  5.12249965] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [ 0.11113461 -1.76732036  5.1224995 ] Temp1 : False Temp2 : False
+Pos :  [-1.72482806 -0.21862597  5.1224997 ] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [ 0.1177289  -1.76666894  5.12249946] Temp1 : False Temp2 : False
+Pos :  [-1.72620627 -0.22562479  5.12249957] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [ 0.12361098 -1.76578791  5.12249981] Temp1 : False Temp2 : False
+Pos :  [-1.72702039 -0.2311227   5.12249958] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [ 0.13011036 -1.76447954  5.12249942] Temp1 : False Temp2 : False
+Pos :  [-1.72762665 -0.23707696  5.12249964] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [ 0.13539278 -1.76314454  5.12249947] Temp1 : False Temp2 : False
+Pos :  [-1.72794487 -0.24306193  5.12249975] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [-1.72797376 -0.2490529   5.12249952] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [-1.72771792 -0.25498791  5.12249976] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [-1.72710572 -0.26148785  5.12249977] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [-1.72624651 -0.26738546  5.12249981] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [-1.72510795 -0.27323548  5.12249949] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [-1.72384825 -0.27841133  5.12249936] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [-1.72218765 -0.28409248  5.12249928] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [-1.72025486 -0.28969008  5.12249927] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [-1.71805407 -0.29519239  5.12249924] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [-1.71558992 -0.30058811  5.12249922] Temp1 : True Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [-1.71286763 -0.30586531  5.12249923] Temp1 : True Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [-1.71020199 -0.31050492  5.12249932] Temp1 : True Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+Pos :  [-1.7066858  -0.31599475  5.12249902] Temp1 : True Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 0
+luma-3 sensing ===> [ 0.16749857 -1.68880666  5.12249989]
+kirby-1 0
+rosalina-2 0
+luma-3 0
+luma-3 sensing ===> [ 0.16545898 -1.68278688  5.12249964]
+kirby-1 0
+rosalina-2 0
+luma-3 0
+luma-3 found FALSE victim at [0.29540871386185735, 0.28444683485519306, 5.1224991080337192]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.72797376 -0.2490529   5.12249952]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.72450437 -0.37830724  5.12249979]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.72998849 -0.38113553  5.12250012]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.73615084 -0.38378025  5.12250035]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.74129142 -0.38562476  5.12250074]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.74761447 -0.38751758  5.1225007 ]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.75284813 -0.38881409  5.12250095]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.75873095 -0.39001835  5.12250062]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.76463306 -0.3909886   5.12250053]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.77112221 -0.39181433  5.12250034]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.7764328  -0.39232277  5.12250017]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.78232716 -0.39273137  5.1225    ]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.78820281 -0.39299018  5.12249976]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.79404615 -0.39311216  5.12249965]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.8004015  -0.39310854  5.12249952]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.80499029 -0.39302401  5.12249943]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.81182852 -0.39278598  5.12249927]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.81745594 -0.39249835  5.12249964]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.82241538 -0.3921804   5.12249965]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.8279267  -0.39176476  5.12249965]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.83288863 -0.3913388   5.12249966]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.83895335 -0.39075744  5.12249966]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.84451026 -0.39016905  5.12249889]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.85010134 -0.38953764  5.12249937]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.85569355 -0.38886487  5.12249957]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.86171455 -0.38809904  5.12249952]
+Pos :  [  4.65559133e+00   1.34460897e-03   5.12249979e+00] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.86662391 -0.38744448  5.12249955]
+Pos :  [  4.87536474e+00   4.82456929e-03   5.12249966e+00] Temp1 : False Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.87208394 -0.38668583  5.12249955]
+Pos :  [ 5.07512147  0.01727639  5.12249975] Temp1 : True Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.87809042 -0.38581685  5.12249955]
+Pos :  [ 5.2740605   0.03922979  5.12249973] Temp1 : True Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.88355216 -0.3849983   5.12249957]
+Pos :  [ 5.47173772  0.07061059  5.12249976] Temp1 : True Temp2 : False
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.88846922 -0.38424057  5.12249959]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.89393358 -0.38337729  5.12249959]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.89994627 -0.3824038   5.12249959]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.90486777 -0.38159038  5.12249959]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.91088573 -0.38057752  5.1224996 ]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.91581205 -0.37973473  5.1224996 ]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.9212885  -0.37878475  5.1224996 ]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-1.92733101 -0.37772325  5.12249962]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-2.06618075 -0.35311781  5.12262467]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-2.17809091 -0.33177727  5.12249837]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-2.18369684 -0.33085019  5.12249971]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-2.18871912 -0.33003094  5.12249974]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-2.19485555 -0.32901852  5.12249975]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 sensing ===> [-2.19987541 -0.32818177  5.12249976]
+kirby-1 0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-1.5571976055063579, -1.1074889241592356, 5.1224998126092061]
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.32095     0.10900749  5.12273609] Temp1 : True Temp2 : True
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-4.63624202 -0.00781751  5.12250837] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ -4.83395717e+00  -2.60981428e-03   5.12256422e+00] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ -5.03368433e+00  -4.98350461e-03   5.12250022e+00] Temp1 : True Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.23309851 -0.01732843  5.122501  ] Temp1 : True Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.43161765 -0.03953264  5.12250022] Temp1 : True Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.50411375 -0.0232058   5.12249969] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.50948631 -0.02289833  5.12249958] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.5152946  -0.02229638  5.12250008] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.5204735  -0.0215218   5.12249954] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.52629821 -0.02037622  5.12249977] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.53265573 -0.01879983  5.12249991] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.53788552 -0.01724149  5.12249948] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.54418254 -0.01503586  5.12249947] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.54980213 -0.01275149  5.12249937] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.55476002 -0.01047384  5.12249948] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.56014957 -0.00769996  5.12249946] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [  5.56590911e+00  -4.36587602e-03   5.12249949e+00] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [  5.57047827e+00  -1.42454585e-03   5.12249947e+00] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [  5.57588834e+00   2.43157261e-03   5.12249948e+00] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.58061603  0.00616881  5.12249951] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.58472246  0.00972823  5.12249946] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.58929786  0.0140753   5.1224995 ] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.59307049  0.01806083  5.12249941] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.5962902   0.02180268  5.12249928] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.60024904  0.02690128  5.1224998 ] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.60365475  0.03176639  5.12249933] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.60683659  0.03680873  5.12249948] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.60949807  0.04148095  5.12249939] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.61247622  0.04733995  5.12249939] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.61468037  0.05223891  5.12249933] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.61708423  0.05834045  5.12249936] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.61898727  0.06397981  5.12249943] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.62062032  0.0697036   5.12249934] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.62198072  0.07550319  5.12249935] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.62305759  0.08135451  5.12249967] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.62378416  0.08661756  5.12249971] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.62436199  0.09308089  5.12249971] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.62457995  0.09838432  5.12249971] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.62453413  0.10486582  5.12249971] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.62418346  0.11083595  5.12249938] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.62353575  0.11684396  5.12249957] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.62258103  0.12287728  5.12249923] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.62136979  0.12871329  5.12249934] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.61986898  0.13449326  5.12249891] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.61801234  0.14042797  5.12249899] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.61586272  0.14627526  5.12249899] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.61343018  0.15200555  5.12249909] Temp1 : False Temp2 : False
+Pos :  [-5.47750351 -0.13682308  5.12249969] Temp1 : True Temp2 : True
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.6107288   0.15758674  5.12249913] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.60781857  0.16292884  5.12249909] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.60472333  0.16800556  5.12249928] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.60138587  0.17293475  5.12249926] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.59781615  0.17770222  5.12249931] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.59441127  0.1818462   5.1224993 ] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.59006473  0.18666033  5.12249897] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.58603479  0.19069219  5.12249964] Temp1 : True Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.58166242  0.19466232  5.12249965] Temp1 : True Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.57730671  0.19826793  5.12249939] Temp1 : True Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.57337177  0.20121955  5.12249932] Temp1 : True Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.56837848  0.20458752  5.12249914] Temp1 : True Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.56315221  0.20776604  5.12249914] Temp1 : True Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.55780046  0.21067596  5.12249915] Temp1 : True Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.55230476  0.21332654  5.12249914] Temp1 : True Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.50352432 -0.0411376   5.12249939] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.50941371 -0.03832381  5.12249938] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.51435295 -0.03624297  5.12249937] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.5210644  -0.03380189  5.12249933] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.52619377 -0.03222028  5.12249928] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.53208213 -0.03069801  5.12249895] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.53871785 -0.02932058  5.12249931] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.54380181 -0.02849738  5.1225001 ] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.54862849 -0.02792403  5.12249967] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.55465583 -0.02749665  5.12249929] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.56068844 -0.02736371  5.12249975] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.56616658 -0.02751316  5.1224998 ] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.57103615 -0.02785869  5.1224999 ] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.52081671  0.13528996  5.12249959] Temp1 : True Temp2 : False
+Pos :  [-5.57589379 -0.02840844  5.12249981] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.52461446  0.13106751  5.12249959] Temp1 : True Temp2 : False
+Pos :  [-5.58238459 -0.0294645   5.12249931] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.52850365  0.12715952  5.12249959] Temp1 : True Temp2 : False
+Pos :  [-5.58786965 -0.03064776  5.12249942] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.53174943  0.12417768  5.1224996 ] Temp1 : True Temp2 : False
+Pos :  [-5.59274547 -0.03192911  5.12249924] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.53684698  0.11994215  5.12249967] Temp1 : True Temp2 : False
+Pos :  [-5.59766653 -0.0334493   5.12249939] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.54214549  0.11605359  5.12249939] Temp1 : True Temp2 : False
+Pos :  [-5.60391113 -0.03569762  5.12249947] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.54614868  0.11337143  5.12249941] Temp1 : True Temp2 : False
+Pos :  [-5.60949738 -0.03803195  5.12249948] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 5.5523375   0.10964074  5.12249942] Temp1 : True Temp2 : True
+Pos :  [-5.61497069 -0.04063285  5.12249949] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.61979083 -0.04319687  5.12249949] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.62571442 -0.04672923  5.1224994 ] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.63099851 -0.05025374  5.12249958] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.63610208 -0.054028    5.1224996 ] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.64101066 -0.05804134  5.12249932] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.64567187 -0.0622534   5.12249966] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.64983338 -0.06642752  5.12249966] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.65301772 -0.06990872  5.12249967] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.65717333 -0.07488526  5.12249961] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.66059651 -0.07943162  5.1224995 ] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.66428527 -0.08488485  5.12249931] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.66742651 -0.09006982  5.12249948] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.67006226 -0.09491326  5.12249918] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.67276721 -0.1004712   5.12249925] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.67521369 -0.10618148  5.12249946] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.6771872  -0.11144948  5.12249924] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.67929804 -0.11804097  5.12249911] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.68091672 -0.12415398  5.12249936] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.68234828 -0.13095904  5.1224986 ] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.68322164 -0.13646805  5.12249993] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.68390964 -0.14262736  5.12250005] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.68429168 -0.14882191  5.12250008] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.68435714 -0.15565521  5.12250028] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.68409309 -0.16187549  5.12250044] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.68352235 -0.16807413  5.12250059] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.68274623 -0.17364348  5.12250068] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.68153323 -0.18020017  5.12249934] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.68036877 -0.18505519  5.12249905] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.67853477 -0.19127726  5.12249938] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.67678647 -0.19632465  5.12249932] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.67459255 -0.20183818  5.12249931] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.67213852 -0.20724126  5.1224993 ] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.66914633 -0.21304188  5.1224993 ] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.66647509 -0.21766711  5.12249931] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.66328744 -0.22264407  5.12249918] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.66059055 -0.22648836  5.12249945] Temp1 : False Temp2 : False
+kirby-1 -501.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-7.3539207198821908, -1.2752144677319792, 0.19052404767743425]
+Pos :  [-5.65625578 -0.23207811  5.12249933] Temp1 : True Temp2 : False
+kirby-1 -1002.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-7.3392303399358685, -1.2059874209183323, 0.20299646483183303]
+Pos :  [-5.65208686 -0.23690144  5.12249958] Temp1 : True Temp2 : False
+kirby-1 -1503.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-7.5474994920597274, -1.131826143589802, 0.2026565141736503]
+Pos :  [-5.64904824 -0.24009487  5.12249967] Temp1 : True Temp2 : False
+kirby-1 -2004.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-7.5422800879941585, -1.0910306457078602, 0.18740386130039657]
+Pos :  [-5.64425656 -0.24465255  5.12249967] Temp1 : True Temp2 : False
+kirby-1 -2505.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.64006335 -0.24822488  5.12249966] Temp1 : True Temp2 : False
+kirby-1 -2505.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.63568166 -0.2515971   5.12249971] Temp1 : True Temp2 : False
+kirby-1 -2505.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.630643   -0.25506646  5.12249941] Temp1 : True Temp2 : False
+kirby-1 -2505.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.62605229 -0.25794704  5.12249942] Temp1 : True Temp2 : False
+kirby-1 -2505.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.62081213 -0.26091248  5.12249943] Temp1 : True Temp2 : False
+kirby-1 -2505.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.61543897 -0.26362301  5.12249944] Temp1 : True Temp2 : False
+kirby-1 -2505.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.60939138 -0.26630169  5.12249951] Temp1 : True Temp2 : False
+kirby-1 -2505.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.60434478 -0.26825362  5.12249952] Temp1 : True Temp2 : False
+kirby-1 -2505.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.59922211 -0.26998688  5.12249949] Temp1 : True Temp2 : False
+kirby-1 -2505.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.59228534 -0.27195473  5.12249944] Temp1 : True Temp2 : False
+kirby-1 -2505.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [-5.58653621 -0.27327782  5.12249922] Temp1 : True Temp2 : False
+kirby-1 -2505.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -2505.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -2505.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -2505.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -2505.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -2505.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.2259207197492215, -6.0241535599827305, 0.13249647203554593]
+kirby-1 -3006.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.1652872801535086, -6.5769702734728028, 0.13249645161293136]
+kirby-1 -3507.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.2913546396372828, -7.0681770962812864, 0.13452867031614085]
+kirby-1 -4008.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.2262133264807407, -7.5086944629220165, 0.13992861120629951]
+Pos :  [ 6.5469442   0.02325366  5.12304787] Temp1 : False Temp2 : False
+kirby-1 -4509.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.287042475687258, -7.9173201921613376, 0.13249640979311395]
+Pos :  [ 6.7453584   0.01231697  5.12258983] Temp1 : False Temp2 : False
+kirby-1 -5010.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.2417404533372132, -8.2080940233182229, 0.13249645295645629]
+Pos :  [ 6.92517265  0.00940515  5.12250041] Temp1 : False Temp2 : False
+kirby-1 -5511.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.14477189  0.01678942  5.12250058] Temp1 : True Temp2 : False
+kirby-1 -5511.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.34380226  0.03385718  5.12250107] Temp1 : True Temp2 : False
+kirby-1 -5511.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.2658454132619879, -8.7855992021366944, 0.13349191077072142]
+Pos :  [-5.54975484 -0.21384642  5.12249925] Temp1 : True Temp2 : False
+kirby-1 -6012.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.247534285976811, -8.8706630493192407, 0.13249654823139995]
+Pos :  [-5.55236488 -0.20738536  5.1224993 ] Temp1 : True Temp2 : False
+kirby-1 -6513.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.2635041845959387, -8.8674422743838814, 0.13247419553048828]
+Pos :  [-5.5548631  -0.20205125  5.12249916] Temp1 : True Temp2 : False
+kirby-1 -7014.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.2693452535562386, -8.8057243106541971, 0.13249653067471673]
+Pos :  [-5.55766565 -0.19676062  5.12249892] Temp1 : True Temp2 : False
+kirby-1 -7515.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.2674635242663665, -8.7009785180025858, 0.13249947459200512]
+Pos :  [-5.56071954 -0.19160156  5.12249923] Temp1 : True Temp2 : False
+kirby-1 -8016.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.2888094020089609, -8.5349564422238906, 0.13249992232506072]
+Pos :  [-5.5639887  -0.18664226  5.12249924] Temp1 : True Temp2 : False
+kirby-1 -8517.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.2838020372335368, -8.3384879842024464, 0.13250150100073671]
+Pos :  [-5.56786128 -0.18136385  5.12249928] Temp1 : True Temp2 : False
+kirby-1 -9018.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.3073371780562049, -8.1487987345802484, 0.13249987494606022]
+Pos :  [-5.57123291 -0.17719983  5.12249929] Temp1 : True Temp2 : False
+kirby-1 -9519.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.2803528610965644, -7.9067554780732321, 0.1324997440610009]
+Pos :  [-5.57553762 -0.17236753  5.12249961] Temp1 : True Temp2 : False
+kirby-1 -10020.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.3127836655056502, -7.6365570856898755, 0.13249978837630758]
+Pos :  [-5.57967362 -0.16817192  5.12249965] Temp1 : True Temp2 : False
+kirby-1 -10521.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.2716239703173775, -7.2867997840720937, 0.13249959747938028]
+Pos :  [-5.58356185 -0.16457022  5.12249964] Temp1 : True Temp2 : False
+kirby-1 -11022.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.322032783169413, -6.8228088497972825, 0.13249950739046562]
+Pos :  [-5.58852005 -0.16039805  5.12249965] Temp1 : True Temp2 : True
+kirby-1 -11523.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.2252114055889267, -6.4028824854291315, 0.13249959824663241]
+kirby-1 -12024.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.2742950757338063, -5.8588257125608569, 0.13249953665239039]
+kirby-1 -12525.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.1367888654601472, -5.4423640925300987, 0.13249950702182806]
+kirby-1 -13026.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.1688780187146124, -4.9797520532261741, 0.1324994818936101]
+kirby-1 -13527.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.0173930764802739, -4.6442797348703992, 0.13249947221468711]
+kirby-1 -14028.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.0363963501990705, -4.2744755631973153, 0.13249946783893674]
+kirby-1 -14529.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -14529.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -14529.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -14529.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -14529.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -14529.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -14529.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -14529.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -14529.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -14529.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -14529.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -14529.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -14529.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -14529.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -14529.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -14529.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -14529.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -14529.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -14529.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -14529.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -14529.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-5.6862409368078053, -4.2062786148033213, 0.13249945519118728]
+kirby-1 -15030.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-5.608983686168715, -5.2566170428488261, 0.13249973443683327]
+kirby-1 -15531.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-5.9886922421224158, -6.7944606000756318, 0.13249976102008662]
+kirby-1 -16032.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-5.5803871646093945, -9.7070440959484827, 0.13249955664762941]
+Pos :  [ 7.47409124  0.14722611  5.12249932] Temp1 : True Temp2 : True
+kirby-1 -16533.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-5.4020826277180207, -12.866949994301134, 0.13250054488706162]
+kirby-1 -17034.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-4.3976824159597641, -15.789379505812869, 0.13249985082680391]
+kirby-1 -17535.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-3.2569544609124756, -17.99020521151208, 0.13250061556187911]
+kirby-1 -18036.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-2.0898172941847584, -19.409672071526259, 0.13250065786273366]
+kirby-1 -18537.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -18537.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -18537.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -18537.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -18537.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -18537.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -18537.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -18537.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -18537.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [4.5880031829459726, -15.684279161016175, 0.13249925675407537]
+kirby-1 -19038.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [4.7535728363822587, -15.292706247360238, 0.13249939022741211]
+kirby-1 -19539.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [4.8731218694416061, -14.94470796382125, 0.13249940908359509]
+kirby-1 -20040.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [4.9487311959235587, -14.75025538931693, 0.13249944797330249]
+kirby-1 -20541.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [4.9773700584906964, -14.669797273464633, 0.13249952373349128]
+kirby-1 -21042.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [4.9889236134036272, -14.643905082534596, 0.13249983526095838]
+kirby-1 -21543.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [4.9754261801535709, -14.696694132266543, 0.13249984856135602]
+kirby-1 -22044.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [4.9312012604537134, -14.818036291250237, 0.13249987600983174]
+kirby-1 -22545.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [4.8827497867495078, -14.971239122382579, 0.13249987732093677]
+kirby-1 -23046.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [4.8115866772758809, -15.153597398683656, 0.13250028705041084]
+Pos :  [ 7.50698929  0.04592978  5.1224994 ] Temp1 : False Temp2 : False
+kirby-1 -23547.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.51201243  0.04381306  5.12249914] Temp1 : False Temp2 : False
+kirby-1 -23547.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.51826773  0.04150692  5.12249952] Temp1 : False Temp2 : False
+kirby-1 -23547.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.52400864  0.03971376  5.12249952] Temp1 : False Temp2 : False
+kirby-1 -23547.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.5298226   0.03819912  5.12249952] Temp1 : False Temp2 : False
+kirby-1 -23547.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.53511203  0.03707587  5.12249951] Temp1 : False Temp2 : False
+kirby-1 -23547.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.54102839  0.03609759  5.12249981] Temp1 : False Temp2 : False
+kirby-1 -23547.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.54657284  0.03543487  5.12249949] Temp1 : False Temp2 : False
+kirby-1 -23547.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.55255515  0.03501583  5.1224997 ] Temp1 : False Temp2 : False
+kirby-1 -23547.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.5574596   0.03489857  5.1224998 ] Temp1 : False Temp2 : False
+kirby-1 -23547.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.56345799  0.03503178  5.12249986] Temp1 : False Temp2 : False
+kirby-1 -23547.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.56842607  0.03537973  5.1224995 ] Temp1 : False Temp2 : False
+kirby-1 -23547.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.57441997  0.03606482  5.12249979] Temp1 : False Temp2 : False
+kirby-1 -23547.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.57988822  0.03696048  5.12249941] Temp1 : False Temp2 : False
+kirby-1 -23547.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.58542731  0.03813189  5.12249938] Temp1 : False Temp2 : False
+kirby-1 -23547.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.59090976  0.03956042  5.12249925] Temp1 : False Temp2 : False
+kirby-1 -23547.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.59630811  0.04123652  5.12249908] Temp1 : False Temp2 : False
+kirby-1 -23547.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.60192061  0.04328408  5.12249938] Temp1 : False Temp2 : False
+kirby-1 -23547.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.60752744  0.04562882  5.12249938] Temp1 : False Temp2 : False
+kirby-1 -23547.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.61299985  0.04822775  5.12249939] Temp1 : False Temp2 : False
+kirby-1 -23547.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.61832339  0.05107217  5.12249939] Temp1 : False Temp2 : False
+kirby-1 -23547.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.62350245  0.05416322  5.12249947] Temp1 : False Temp2 : False
+kirby-1 -23547.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.62802914  0.05714937  5.12249944] Temp1 : False Temp2 : False
+kirby-1 -23547.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [5.8261350926510653, -12.187646265507722, 0.13249965095306043]
+Pos :  [ 7.63337612  0.06105301  5.12249935] Temp1 : False Temp2 : False
+kirby-1 -24048.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [5.9524867300090696, -11.726719142932295, 0.13249964781626328]
+Pos :  [ 7.63805837  0.06484263  5.12249944] Temp1 : False Temp2 : False
+kirby-1 -24549.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [5.9993798940677019, -11.406170150846616, 0.13249942698040276]
+Pos :  [ 7.64248722  0.06878052  5.12249893] Temp1 : False Temp2 : False
+kirby-1 -25050.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [6.0338345722451709, -11.278213566833061, 0.13249947019462219]
+Pos :  [ 7.64629192  0.07249882  5.12249968] Temp1 : False Temp2 : False
+kirby-1 -25551.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [6.0236833527425766, -11.383013137750231, 0.13250014713826522]
+Pos :  [ 7.65065361  0.07716437  5.12249947] Temp1 : False Temp2 : False
+kirby-1 -26052.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [5.903023126431874, -11.867177795199535, 0.13249985074660514]
+Pos :  [ 7.65433395  0.08155535  5.12249967] Temp1 : False Temp2 : False
+kirby-1 -26553.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.65790615  0.08624949  5.12249954] Temp1 : False Temp2 : False
+kirby-1 -26553.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.66126892  0.09113492  5.12249932] Temp1 : False Temp2 : False
+kirby-1 -26553.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.6644092   0.09619936  5.12249938] Temp1 : False Temp2 : False
+kirby-1 -26553.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.66703123  0.10088795  5.12249938] Temp1 : False Temp2 : False
+kirby-1 -26553.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.66970403  0.10622021  5.12249938] Temp1 : False Temp2 : False
+kirby-1 -26553.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.67234504  0.1122207   5.12249937] Temp1 : False Temp2 : False
+kirby-1 -26553.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.67446785  0.11778535  5.12249941] Temp1 : False Temp2 : False
+kirby-1 -26553.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.67632179  0.12344117  5.12249935] Temp1 : False Temp2 : False
+kirby-1 -26553.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.67790041  0.12917546  5.12249936] Temp1 : False Temp2 : False
+kirby-1 -26553.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.67921558  0.13508047  5.12249905] Temp1 : False Temp2 : False
+kirby-1 -26553.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.68026034  0.14119414  5.12249985] Temp1 : False Temp2 : False
+kirby-1 -26553.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.68094443  0.14673345  5.12249978] Temp1 : False Temp2 : False
+kirby-1 -26553.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.68144308  0.15353454  5.12249983] Temp1 : False Temp2 : False
+kirby-1 -26553.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.6815732   0.15973162  5.12249998] Temp1 : False Temp2 : False
+kirby-1 -26553.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.68139578  0.1659175   5.12250011] Temp1 : False Temp2 : False
+kirby-1 -26553.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.68091175  0.17208391  5.12250033] Temp1 : False Temp2 : False
+kirby-1 -26553.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.68012183  0.17823368  5.12250043] Temp1 : False Temp2 : False
+kirby-1 -26553.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.67904623  0.18434088  5.12249804] Temp1 : False Temp2 : False
+kirby-1 -26553.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.67780683  0.18971678  5.12249984] Temp1 : False Temp2 : False
+kirby-1 -26553.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.67614188  0.19570379  5.12249995] Temp1 : False Temp2 : False
+kirby-1 -26553.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.4080285106033008, -9.5403148443035892, 0.13249935849929773]
+Pos :  [ 7.67418377  0.2016057   5.12249995] Temp1 : False Temp2 : False
+kirby-1 -27054.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.5198427823926455, -8.9240060285174359, 0.13249933536970548]
+Pos :  [ 7.67169856  0.20797862  5.1225    ] Temp1 : False Temp2 : False
+kirby-1 -27555.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.6360871516324957, -8.2153467785841148, 0.13249931555691308]
+Pos :  [ 7.66941665  0.2130792   5.12249984] Temp1 : False Temp2 : False
+kirby-1 -28056.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.7232918666893831, -7.6242356390792674, 0.13249926049777083]
+Pos :  [ 7.66632964  0.21916278  5.12249958] Temp1 : False Temp2 : False
+kirby-1 -28557.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.6017073003911193, -7.0719552166757769, 0.13249923744886935]
+Pos :  [ 7.6635605   0.22401566  5.12249929] Temp1 : False Temp2 : False
+kirby-1 -29058.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.6615233540998995, -6.5618133372249297, 0.13249918955462606]
+Pos :  [ 7.65988847  0.22977694  5.122499  ] Temp1 : False Temp2 : False
+kirby-1 -29559.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.6070922571532043, -6.1332034614656843, 0.13249917599946026]
+Pos :  [ 7.65637947  0.23471823  5.1224993 ] Temp1 : True Temp2 : False
+kirby-1 -30060.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.6536086289538368, -5.6425172442786904, 0.13249917766109798]
+Pos :  [ 7.65308496  0.23893158  5.1224993 ] Temp1 : True Temp2 : False
+kirby-1 -30561.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.5830631496615934, -5.3285705508975401, 0.13249919714916619]
+Pos :  [ 7.64881447  0.24388802  5.12249932] Temp1 : True Temp2 : False
+kirby-1 -31062.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.6066450951968383, -5.0051221505177761, 0.13249921373087015]
+Pos :  [ 7.64493904  0.24797503  5.12249965] Temp1 : True Temp2 : False
+kirby-1 -31563.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.5286588270651063, -4.7551194079648402, 0.13249922459368912]
+Pos :  [ 7.64097916  0.2517463   5.12249962] Temp1 : True Temp2 : False
+kirby-1 -32064.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.5405126437622503, -4.5396683485113511, 0.1324994418415798]
+Pos :  [ 7.63683477  0.25531992  5.12249973] Temp1 : True Temp2 : False
+kirby-1 -32565.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.5027231856908827, -4.3548691871934873, 0.13249948427733288]
+Pos :  [ 7.63251206  0.25868945  5.12249982] Temp1 : True Temp2 : False
+kirby-1 -33066.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.5080223937820891, -4.2149352287869792, 0.13249958617069868]
+Pos :  [ 7.62818226  0.26170904  5.12249928] Temp1 : True Temp2 : False
+kirby-1 -33567.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.451545307801843, -4.0724899899201157, 0.1324996118815247]
+Pos :  [ 7.62245762  0.26532375  5.12249909] Temp1 : True Temp2 : False
+kirby-1 -34068.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.4528669421958886, -3.9719782544694615, 0.13249960821116735]
+Pos :  [ 7.6171081   0.26832999  5.12249913] Temp1 : True Temp2 : False
+kirby-1 -34569.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.4332512006898463, -3.8970764236622419, 0.13249950683077596]
+Pos :  [ 7.61163085  0.27106837  5.1224991 ] Temp1 : True Temp2 : False
+kirby-1 -35070.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.4309665560210822, -3.8477057631933413, 0.13249945078457329]
+Pos :  [ 7.6060445   0.27353174  5.12249921] Temp1 : True Temp2 : False
+kirby-1 -35571.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.4172571041158184, -3.8200329447551931, 0.13249948018208246]
+Pos :  [ 7.60037254  0.27571334  5.12249931] Temp1 : True Temp2 : False
+kirby-1 -36072.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.2821724896755056, -3.7972116486854, 0.13271885821557777]
+Pos :  [ 7.59466031  0.27760268  5.12249938] Temp1 : True Temp2 : False
+kirby-1 -36573.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.2702362071165041, -3.7660261739825427, 0.13249877147621611]
+Pos :  [ 7.58889728  0.27920638  5.12249939] Temp1 : True Temp2 : False
+kirby-1 -37074.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.2627773938834785, -3.7976595855943556, 0.1324997682229819]
+kirby-1 -37575.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.2745777655077664, -3.8797719096340204, 0.13249983544374946]
+kirby-1 -38076.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.2616633079374822, -3.9958134339364886, 0.13249985071007497]
+kirby-1 -38577.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.3114131495248227, -4.130113075932905, 0.13249986050285534]
+kirby-1 -39078.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.2929818282628638, -4.316534650287883, 0.13249987441848002]
+kirby-1 -39579.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.3332357899196827, -4.5697523378247844, 0.13249988964560025]
+kirby-1 -40080.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.3016397292915753, -4.8936790105019226, 0.13249921096927733]
+kirby-1 -40581.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.3734385462890506, -5.1700784833184334, 0.13249953779550649]
+kirby-1 -41082.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.3272053922758786, -5.6117655061715865, 0.13249963693334374]
+kirby-1 -41583.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.3775955499290209, -6.2488276578081878, 0.13249976281155437]
+kirby-1 -42084.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.2815174635660158, -7.016435382161041, 0.13250043401651918]
+kirby-1 -42585.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.3100841618246255, -8.0352613477460544, 0.13249966858883672]
+kirby-1 -43086.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 found FALSE victim at [-6.0809748835338482, -9.3750900620202469, 0.13250008707583028]
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.55092598  0.2131369   5.12249921] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.55365137  0.20725259  5.12249918] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.5561172   0.20256927  5.12249919] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.55938066  0.19702065  5.1224992 ] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.56259526  0.19213538  5.12249922] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.56605795  0.18738477  5.12249926] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.56975147  0.18279566  5.12250039] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.57325278  0.17882193  5.12249962] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.5773566   0.17457367  5.12249963] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.58210257  0.17012764  5.12249963] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+Pos :  [ 7.58615501  0.16667711  5.12249962] Temp1 : True Temp2 : True
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+luma-3 sensing ===> [ 7.64684898  0.13752734  5.12249914]
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -501.0
+luma-3 found FALSE victim at [8.9418263955593638, -0.1002342368966147, 0.13249590604275477]
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -1002.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -1002.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -1002.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -1002.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -1002.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -1002.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -1002.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -1002.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -1002.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -1002.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -1002.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -1002.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -1002.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -1002.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -1002.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -1002.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -1002.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -1002.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -1002.0
+luma-3 found FALSE victim at [9.8985495521880011, -0.018658335424640141, 0.25276354222384029]
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -1503.0
+luma-3 found FALSE victim at [10.027784884986978, 0.0014629698010720719, 0.32968852012561251]
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -2004.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -2004.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -2004.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -2004.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -2004.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -2004.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -2004.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -2004.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -2004.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -2004.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -2004.0
+luma-3 sensing ===> [ 7.82681606  0.11044063  5.12249967]
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -2004.0
+luma-3 found FALSE victim at [9.805645958551839, -0.093681876165607039, 0.13249751175564822]
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -2505.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -2505.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -2505.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -2505.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -2505.0
+Pos :  [ 8.5227478   0.04222739  5.12294441] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -2505.0
+Pos :  [ 8.72110399  0.0249155   5.12249778] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -2505.0
+Pos :  [ 8.92070897  0.01665475  5.12249982] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -2505.0
+Pos :  [ 9.10049265  0.01764807  5.12250108] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -2505.0
+Pos :  [ 9.28004486  0.02664647  5.12250058] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -2505.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -2505.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -2505.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -2505.0
+luma-3 found FALSE victim at [-0.25637954478304609, 0.44670316734583471, 0.13791458949559399]
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -3006.0
+luma-3 found FALSE victim at [-0.83301430837150026, 0.43569392312379346, 0.13249630361411635]
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -3507.0
+luma-3 found FALSE victim at [-1.0970649022434649, 0.42987554477059942, 0.13249647576695808]
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -4008.0
+luma-3 found FALSE victim at [-1.3369205899402739, 0.43027148669112758, 0.13249655577389755]
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -4509.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -4509.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -4509.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -4509.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -4509.0
+luma-3 found FALSE victim at [-1.7669093895838917, 0.51320089879113262, 0.18727835649926669]
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -5010.0
+luma-3 found FALSE victim at [-1.8956456207466998, 0.52956296972248151, 0.19389242977977886]
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -5511.0
+luma-3 found FALSE victim at [-1.9466476167476843, 0.54272699262955937, 0.18511786689525572]
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6012.0
+luma-3 found FALSE victim at [-1.9620253239990155, 0.55243798667478661, 0.16476797833923243]
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.47734847  0.14327921  5.12249965] Temp1 : True Temp2 : True
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.50558929  0.04333034  5.12249941] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.51101376  0.04080013  5.12249944] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.51657641  0.03851946  5.12249949] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.52224033  0.0365083   5.12249949] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.52798558  0.03477391  5.12249946] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.53380981  0.03331716  5.12249943] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.53933396  0.03219972  5.12249899] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.54426567  0.03143023  5.1224992 ] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.55022132  0.03078308  5.12249941] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.55583803  0.03045762  5.12249967] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.56172185  0.03039701  5.12249967] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.56761644  0.03061989  5.12249967] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.57349386  0.03112609  5.12249968] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.57935655  0.03191586  5.12249977] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.58465071  0.03287313  5.12249945] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.59115246  0.03437317  5.12249945] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.59699665  0.03603227  5.12249947] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.60210745  0.03772053  5.12249925] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.60819053  0.04006883  5.12249942] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.61310797  0.04223664  5.12249938] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.61888316  0.04511121  5.12249916] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.62403737  0.04802574  5.12249935] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.62852239  0.05083194  5.12249941] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.63383349  0.05451388  5.12249926] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.63850372  0.05812568  5.12249923] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.64299596  0.06195954  5.12249965] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.64699052  0.06572043  5.12249933] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.65056462  0.0694252   5.12249967] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.65429575  0.07364466  5.12249928] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.65828618  0.07867565  5.12249981] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.66140585  0.08301875  5.12249922] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.66496292  0.08850735  5.1224992 ] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.6676743   0.0931605   5.12249938] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.67071324  0.0989996   5.12249936] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.6730851   0.10415185  5.12249903] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.67497016  0.10882068  5.12249908] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.67698606  0.11462446  5.12249915] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.67854343  0.11998774  5.12249936] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.67983561  0.12543079  5.12249947] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.68088845  0.13128742  5.12249979] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.68170046  0.13744236  5.12249969] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.68217136  0.14300433  5.12249953] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.68240524  0.14919873  5.12249937] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.68231914  0.15585352  5.12249955] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.68198382  0.16126779  5.12249955] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.68126587  0.16778095  5.12249976] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.68032039  0.17362487  5.12249995] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.67908433  0.1794412   5.12249934] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.67774215  0.18458975  5.12249929] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.67579776  0.19080477  5.1224993 ] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.67374923  0.19635415  5.12249929] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.67143739  0.20179683  5.12249925] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.66887538  0.20710475  5.12249908] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.66605618  0.21229464  5.1224992 ] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.66297465  0.21737243  5.12249919] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.65964932  0.22230611  5.12249919] Temp1 : False Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.65608979  0.22708132  5.12249919] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.65269337  0.23123389  5.1224992 ] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.64830885  0.23610422  5.12249911] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.64414529  0.24029686  5.12249955] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.64023202  0.24389446  5.12249957] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.63570763  0.24769238  5.12249954] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.63052541  0.25161975  5.12249957] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.62610462  0.25464566  5.12249929] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.62052014  0.25809477  5.12249934] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.61582321  0.26069511  5.12249934] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.61047848  0.26334485  5.12249934] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.60446221  0.26596036  5.12249934] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.59945076  0.26785982  5.12249933] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.59322243  0.26988484  5.12249931] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.58746704  0.27143975  5.12249929] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.58187781  0.27267614  5.12249917] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.54920017  0.20616639  5.12249931] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.55168147  0.20104652  5.12249933] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.55491953  0.19516869  5.12249913] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.55782398  0.19044131  5.12249931] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.56165819  0.18483642  5.12249921] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.5654147   0.17990818  5.12249918] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.56896104  0.17566764  5.12249909] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.57307487  0.17119179  5.12249938] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.57661203  0.16772476  5.1224994 ] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.58147114  0.16340546  5.12249969] Temp1 : True Temp2 : False
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+Pos :  [ 9.58607791  0.15970938  5.12249969] Temp1 : True Temp2 : True
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 0
+luma-3 -6513.0
+rosalina-2 found FALSE victim at [-17.051509860611311, 0.00041328246409371014, 2.4102023561916188]
+kirby-1 -43587.0
+rosalina-2 -501.0
+luma-3 -6513.0
+rosalina-2 found FALSE victim at [-17.258262485921112, 0.00043733924569018686, 1.6019977844363595]
+kirby-1 -43587.0
+rosalina-2 -1002.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -1002.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -1002.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -1002.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -1002.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -1002.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -1002.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -1002.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -1002.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -1002.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -1002.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -1002.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -1002.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -1002.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -1002.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -1002.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -1002.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -1002.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -1002.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -1002.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -1002.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -1002.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -1002.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -1002.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -1002.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -1002.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -1002.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -1002.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -1002.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -1002.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -1002.0
+luma-3 -6513.0
+rosalina-2 found FALSE victim at [-14.342927109446363, -0.13770220050984602, 0.21842000818881499]
+kirby-1 -43587.0
+rosalina-2 -1503.0
+luma-3 -6513.0
+rosalina-2 found FALSE victim at [-13.085347932331016, -0.13944907844436458, 0.21066104944509906]
+kirby-1 -43587.0
+rosalina-2 -2004.0
+luma-3 -6513.0
+rosalina-2 found FALSE victim at [-11.981706251892458, -0.13762945742029731, 0.18502950986628622]
+kirby-1 -43587.0
+rosalina-2 -2505.0
+luma-3 -6513.0
+rosalina-2 found FALSE victim at [-10.841025399865751, -0.13663409011535624, 0.14277394411808869]
+kirby-1 -43587.0
+rosalina-2 -3006.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -3006.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -3006.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -3006.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -3006.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -3006.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -3006.0
+luma-3 -6513.0
+rosalina-2 found FALSE victim at [-10.09764519403752, -0.097098623845727622, 0.17265920792335193]
+kirby-1 -43587.0
+rosalina-2 -3507.0
+luma-3 -6513.0
+rosalina-2 found FALSE victim at [-10.028658956510483, -0.09065325149220467, 0.17175949152160852]
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0
+kirby-1 -43587.0
+rosalina-2 -4008.0
+luma-3 -6513.0

@@ -1,0 +1,171 @@
+import math
+import rospy
+import tf
+from geometry_msgs.msg import Twist
+from nav_msgs.msg import Odometry
+from am_driver.msg import SensorStatus
+
+NO_COLLISION 		= 0
+CHARGING_STATION 	= 1
+COLLISION 		= 2
+OUT_OF_AREA 		= 3
+
+position_global = (0.0,0.0)
+theta_global = 0
+collision_detected = 0
+
+class LawnMower():
+	def __init__(self, namespace, position=(0.0,0.0), velocity=0.0, max_vel=5.0, max_omega=0.3):
+		self.position = position
+		self.prev_error = None
+		self.velocity = velocity
+		self.max_vel = max_vel
+		self.max_omega = max_omega
+		self.theta = 0
+		self.prev_theta = None
+		self.saved_angle = None
+
+		# init ROS communication
+		rospy.init_node('movement_node', anonymous=True)
+		self.publisher = rospy.Publisher(namespace + '/cmd_vel', Twist, queue_size=10)
+		rospy.Subscriber(namespace + "/odom", Odometry, update_position)
+		rospy.Subscriber('/sensor_status', SensorStatus, update_map)
+
+	def setTarget(self, target):
+		self.target = target
+
+	def drive(self):
+		collision = self.resolve_possible_collision()
+		if not collision:
+			self.determine_controls()
+		self.publish_message()
+
+	def resolve_possible_collision(self):
+		collision = False
+
+		if collision_detected == CHARGING_STATION:
+			# stop driving
+			self.velocity = 0.0
+			self.theta = 0.0
+			collision = True
+		
+		elif collision_detected == COLLISION:
+			# make manuever to resolve collision
+			if self.saved_angle == None:
+				self.saved_angle = (self.theta + 0.5 * math.pi) % (2*math.pi)
+			elif abs(self.saved_angle - self.theta) > self.max_omega:
+				self.theta += self.max_omega
+			elif abs(self.saved_angle - self.theta) > 0.05:
+				self.theta += abs(self.saved_angle - self.theta)
+			else:
+				self.saved_angle = None
+
+			self.velocity = 0
+			collision = True
+
+		elif collision_detected == OUT_OF_AREA:
+			# turn 180 degrees to get back in area
+			if self.saved_angle == None:
+				self.saved_angle = (self.theta - math.pi) % (2*math.pi)
+			elif abs(self.saved_angle - self.theta) > self.max_omega:
+				self.theta += self.max_omega
+			else:
+				self.saved_angle = None
+			collision = True
+
+		return collision
+
+	def determine_controls(self):
+		global theta_global
+		self.theta = theta_global 
+		self.position = position_global
+
+		# PD controller parameters for velocity and steering
+		kp = 0.5
+		kd = 0.3
+
+		kp_t = 1.5
+		kd_t = 0.8
+
+		# PD controller for velocity
+		v_error = math.sqrt((self.target[0] - self.position[0])*(self.target[0] - self.position[0]) + (self.target[1] - self.position[1])*(self.target[1] - self.position[1]))
+
+		if self.prev_error == None:
+			v_error_delta = 0
+		else:
+			v_error_delta = self.prev_error - v_error
+		
+		self.prev_error = v_error
+
+		v = kp * v_error - kd * v_error_delta
+		v = max(min(v, self.max_vel), -self.max_vel)
+
+		# PD controller for steering
+		target_angle = math.atan2(self.target[1] - self.position[1], self.target[0] - self.position[0])
+		# map angle to 2*pi scale
+		if target_angle < 0:
+			target_angle = 2*math.pi + target_angle
+		theta_error = target_angle - self.theta
+
+		if self.prev_theta == None:
+			theta_error_delta = 0
+		else:
+			theta_error_delta = self.prev_theta - theta_error
+
+		self.prev_theta = theta_error
+
+		theta = kp_t * theta_error - kd_t * theta_error_delta
+		theta = max(min(theta, self.max_omega), -self.max_omega)
+
+		# scale down velocity according to steering
+		k = 0.5
+		if abs(theta_error) < k * self.max_omega * v_error:
+			factor = self.max_omega - theta
+		else:
+			factor = 0
+
+		self.theta = theta
+		self.velocity = factor * v
+
+	# publish linear and angular velocity to /cmd_vel topic
+	def publish_message(self):
+		move = Twist()
+		move.linear.x = self.velocity
+		move.angular.z = self.theta
+
+		print "publish", self.velocity, self.theta
+
+		self.publisher.publish(move)
+
+# update current position and orientation from /odom topic
+def update_position(data):
+	global theta_global
+	global position_global
+
+	position_global = (data.pose.pose.position.x, data.pose.pose.position.y)
+	
+	rotation = data.pose.pose.orientation
+	quaternion = (rotation.x, rotation.y, rotation.z, rotation.w)
+	(roll, pitch, yaw) = tf.transformations.euler_from_quaternion(quaternion)
+
+	# map yaw to 2*pi scale
+	if yaw < 0:
+		yaw = 2 * math.pi + yaw
+
+	theta_global = yaw
+
+	print "position", position_global
+
+def update_map(data):
+	global collision_detected
+
+	if data.sensorStatus == 0x40:
+		collision_detected = CHARGING_STATION
+	elif data.sensorStatus == 0x04:
+		collision_detected = COLLISION
+	elif data.sensorStatus == 0x02:
+		collision_detected = OUT_OF_AREA
+	else:
+		collision_detected = NO_COLLISION
+
+	#print "update collision", collision_detected

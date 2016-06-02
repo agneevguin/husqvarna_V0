@@ -1,0 +1,8 @@
+<launch>
+
+  <!-- Start the am_mpu9150 -->
+  <node name="am_mpu9150" pkg="am_mpu9150" type="am_mpu9150_node" output="screen">
+	<param name="i2cbus" value="1" type="int" />
+  </node>
+
+</launch>

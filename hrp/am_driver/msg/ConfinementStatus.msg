@@ -1,0 +1,5 @@
+Header header
+float32 frontLeftCollision
+float32 frontRightCollision
+float32 rearLeftCollision
+float32 rearRightCollision

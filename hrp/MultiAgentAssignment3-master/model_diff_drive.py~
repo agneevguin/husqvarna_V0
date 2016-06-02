@@ -1,0 +1,132 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Mar 12 15:18:45 2016
+
+@author: ozer
+"""
+
+import numpy as np
+RANGE = 3.0
+
+class LawnMower():
+	
+	def __init__(self, X=[0.,0.,0.], V=[0.,0.,0.], R=[0.,0.,0.,0.], max_v = 100., max_omega = np.pi/4, name = 'noname', bm = None):
+		#in case you want to give your robot some cute name. Also useful for debugging.
+		self.name = name
+		#the handle of the benchmarker this model is subject to.
+		self.bm = bm
+		#position of the model in 3D
+		self.X = np.array(X)
+		#velocity of the model, the rotation of the vector is the current
+		#heading of the model and the length of the vector is its lineer velocity
+		self.V = np.array(V)
+		#orientation of the model in quaternions
+		self.R = np.array(R)
+		#maximum linear velocity
+		self.max_v = max_v
+		#maximum angular velocity
+		self.max_omega = max_omega
+
+		#current time in simulation ticks
+		self.time = 0
+		#the time lenght in seconds each 'tick' in simulation is
+		self.dt = 0.03
+
+		#desired angular velocity
+		self.omega = 0.
+		#desired linear velocity
+		self.v = 0.
+
+		#the target this model is trying to reach
+		#initially the target is its own position
+		self.target = self.X
+
+		#list of targets this model will try to follow
+		self.target_list = [self.target]
+
+		# will be set by view. possibilites are 'charge' 'bump' and 'none'
+		self.bump = 'none'
+		# will be set by the view, contains the range sensor output
+		self.range = -1
+
+		#status of the robot. "run" or "stop". This will be set from outside the model.
+		self.status = 'run'
+
+		#last encountered status
+		self.last_status = 'run'
+
+	def tick(self):
+		if self.status == 'run':
+			self.printStatus()
+			if self.bump == 'area':
+				stop()
+				self.last_status = 'weir'
+			elif self.range < RANGE:
+				stop()
+				self.last_status = 'victim'
+			else:
+				self.v = 1.
+				self.omega = 0.
+
+			# TODO apply your controls here (set self.omega and self.v)
+
+			#update the benchmarker, it already has the model handle.
+			#victim pos is optional, set it to [x,y] when you think you found a victim
+			self.bm.update(self.name, victim_pos = None)
+		else:
+			stop()
+		pass
+
+	def update_pos(self,pos,ori):
+		# TODO make use of the data in tick
+		oldX = self.X
+		self.X = np.array(pos)
+		self.V = self.X - oldX
+		self.R = np.array(ori)
+
+	def update_bump(self,bump):
+		# TODO make use of the data in tick
+		self.bump = bump
+
+	def update_range(self,r):
+		# TODO make use of the data in tick
+		self.range = r
+
+	def setTarget(self,T):
+		self.target = np.array(T)
+
+	def addTarget(self,T,multi=False):
+		if multi:
+			for t in T:
+				self.target_list.append(np.array(t))
+		else:
+			self.target_list.append(np.array(T))
+
+	def printStatus(self):
+		print '='*10
+		print self.name
+		print 'X',self.X
+		print 'R',self.R
+		print 'V',self.V
+		print 'bump',self.bump
+		print 'range',self.range
+		print 'status',self.status
+		print '='*10
+  
+	#def stop(self):
+		#self.v = 0.
+		#self.omega = 0.
+
+	# Turns the robot to the direction in direction from the current orientation
+	# by rad radians. Default is 45 degrees if rad is not set.
+	def turn(self, direction, rad=0.785398):
+		self.v = 0.
+		if direction == 'left':
+			#TODO turn left from curent orientation by rad radians
+			self.v = rad*2
+		elif direction == 'right':
+			#TODO turn right from current orientation by rad radians
+			self.v = rad*-2
+		else:
+			self.omega = 0.
+         

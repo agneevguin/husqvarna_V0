@@ -1,0 +1,16 @@
+from lawn_mower import LawnMower
+import rospy
+
+
+if __name__ == '__main__':
+	robot1 = LawnMower('robot1')
+	robot2 = LawnMower('robot2')
+
+	robot1.setTarget((0.0, 0.0))
+	robot2.setTarget((0.0, 0.0))
+
+	r = rospy.Rate(5) # Hz
+	while not rospy.is_shutdown():
+		robot1.drive()
+		robot2.drive()
+		r.sleep()
